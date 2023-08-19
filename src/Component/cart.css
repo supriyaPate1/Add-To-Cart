@@ -1,0 +1,22 @@
+.dis{
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 24%;
+}
+.dis table{
+    text-align: center;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+#tdimg{
+    height: 10vh;
+    width: 100%;
+}
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+table td{
+    border: 1px solid;
+    height: 10vh;
+}
